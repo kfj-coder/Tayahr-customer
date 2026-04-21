@@ -80,6 +80,3 @@ tayahr Customer/
 ## 📬 Contact
 - GitHub: https://github.com/kfj-coder
 - LinkedIn: https://www.linkedin.com/in/flanklin-kamdem-a07b35261
-## 📬 Contact
-- GitHub: https://github.com/kfj-coder
-- LinkedIn: https://www.linkedin.com/in/flanklin-kamdem-a07b35261
